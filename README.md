@@ -10,11 +10,6 @@ Versatile Software Engineer with a Bachelor's degree in Computer Science and a p
 
 ## 🌐 Socials: 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@a_Dev23) <a href="https://linkedin.com/in/ahmed-bawazir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ahmed-bawazir/" height="30" width="40" /></a>
-## Get in touch:
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-bawazir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ahmed-bawazir/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Ahmed_Bawazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Ahmed_Bawazi" height="30" width="40" /></a>
-</p>
 
 # 💻 Tech Stack:
 - Database : PostgresSql,MongoDb,MySql 
